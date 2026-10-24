@@ -12,7 +12,7 @@ This repository contains the heavy-lifting infrastructure for the staff team, al
 
 ## 🕰️ History & Origins
 
-Hexium was created on **July 13, 2026** by **tae** to pass the legendary **Roskid** revival. The platform is currently owned and operated by **EMP (Emperor)**.
+Hexium was created on **July 13, 2026** by **EMP (Emperor)** to carry on the legacy of the legendary **Roskid** revival, which was originally owned by **tae**.
 
 I joined just **12 days after the very first account was created**, making me a **Senior Moderator** and one of the earliest staff members of the platform. I've watched this community grow from its absolute beginning to what it is today.
 
