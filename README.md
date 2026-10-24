@@ -7,7 +7,7 @@
 ### About Me
 Hello, I am **Money** (also known as **Qrdz**). I am a Senior Moderator on Hexium, here to help and support the community. 
 
-If you have any questions, ping me in the chat or DM me **@qrdz** on Discord. I am pretty much active every day of the week. I am 5 to 6 hours behind the EST time zone because I am in the EU time zone, which is a bummer, but it's fine—I'm used to it. 
+If you have any questions, ping me in the chat or DM me **@qrdz** on Discord. I am pretty much active every day of the week. I am 5 to 6 hours ahead of the EST time zone because I am in the EU time zone, which is a bummer, but it's fine—I'm used to it. 
 
 I made this guide to inform anyone reading this. Thanks for reading, and please share this with others!
 
@@ -127,4 +127,4 @@ For in-game violations, apply the following ban durations:
 This project is licensed under the MIT License.
 
 ---
-*Maintained by [Qrdz0](https://github.com/Qrdz0) - Senior Moderator & QA Tester at Hexium since Day one.*
+*Maintained by [Qrdz0](https://github.com/Qrdz0) - Senior Moderator & QA Tester at Hexium since Day one*
