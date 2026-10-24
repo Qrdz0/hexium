@@ -1,36 +1,45 @@
-# Hexium Staff Tools & Infrastructure 🛡️⚙️
+# Hexium Moderator & Community Guide
 
-A collection of custom-developed tools, moderation bots, and resources built to maintain, secure, and improve the **Hexium** community platform (11,000+ users).
+This document serves as a quick reference guide for Hexium staff members, containing essential links, platform information, and the standard operating procedures for moderation.
 
-These tools are designed to handle the heavy lifting of moderation, allowing the staff team to focus on community engagement rather than manual policing.
+## 🔗 Important Links
+- **Main Website / Sign Up:** [https://hexium.zip/](https://hexium.zip/)
+- **Download Client:** [https://hexium.zip/download](https://hexium.zip/download)
+- **Builders Club:** [https://hexium.zip/buildersclub](https://hexium.zip/buildersclub)
+- **Promo Codes:** [https://hexium.zip/promocodes](https://hexium.zip/promocodes)
+- **Password Reset:** [https://hexium.zip/forgotpasswordOrUsername](https://hexium.zip/forgotpasswordOrUsername)
+- **Heximons:** [https://heximons.lol/](https://heximons.lol/)
+- **Legacy/Other Site (Currently unstable):** [https://le.baljeet.club/](https://le.baljeet.club/)
 
-## 📦 Contents
+### 💰 Donations & Support
+- **Ko-fi:** [https://ko-fi.com/hexium](https://ko-fi.com/hexium)
+- **Direct Donation (PayPal & Crypto):** [https://hexium.zip/donation](https://hexium.zip/donation)
 
-### 1. `hexium_mod.py` (Discord Auto-Moderator)
-A powerful, local-first Discord bot that automatically deletes messages containing severe slurs, bypasses, and spam.
-- **Regex Filter:** Catches hard slurs, soft slurs, and bypasses (e.g., `n1gg3r`, `m3gga`).
-- **Human-in-the-Loop:** Does not auto-ban. It deletes the message, times out the user for 10 minutes, and sends an alert to the head moderator.
-- **Spam Protection:** Detects rapid-fire messages and flags them for review.
+## ❓ What is Hexium?
+Hexium is a Roblox revival platform where users can get OGU (Original Unreleased), Robux, and Limiteds for free. It features an active economy and an OBC (Outrageous Builders Club) system.
 
-### 2. `asset_sentinel.py` (AI Asset Scanner)
-An advanced pre-check bot for Roblox clothing templates and audio files.
-- **Local AI Vision:** Uses Ollama (`llava`) to scan clothing templates for hate symbols, NSFW content, and offensive text.
-- **Audio Bypass Detection:** Uses `ffmpeg` and `mutagen` to catch corrupted headers and malicious files disguised as audio.
-- **Approval Workflow:** Sends a preview and AI report to a private staff channel. Staff can reply with `!approve` or `!reject`. If rejected, a local LLM generates a polite TOS-compliant rejection message for the user.
+## 💵 Economy (TIX)
+- **TIX Generation:** Users typically receive around 500+ TIX per 24 hours.
+- *If a user reports not getting TIX, check their account status/playtime on the site.*
 
-### 3. `Hexium Community Rules.txt`
-The official, comprehensive ruleset for the platform. This is used as the source of truth for all moderation actions and AI prompts.
+## 🛡️ Moderation Action Times (Discord/Chat)
+Consistency is key. Use the following timeouts for Discord chat infractions:
 
-## 🛠️ Prerequisites
-To run these tools locally, you will need:
-- **Python 3.10+**
-- **Ollama** (Running locally with `llava` and `llama3.2` pulled)
-- **FFmpeg** (Added to your system PATH)
-- **Discord Bot Token**
+| Offense | Action / Duration |
+| :--- | :--- |
+| **Slurs** (Hard R, extreme hate speech) | **1 Hour Timeout** |
+| **KYS / Telling someone to self-harm** | **30 Minutes to 1 Hour Mute** |
+| **Low-tier Offenses** (Arguments, inappropriate behavior, hostile behavior) | **10 Minutes Timeout** |
+| **Promotion / Mentioning other sites** | **10 Minutes Timeout** |
 
-## 🚀 Setup & Usage
-*(See the individual files for detailed setup instructions)*
+## 🎮 Moderation Action Times (In-Game Bans)
+For in-game violations, apply the following ban durations:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Qrdz0/hexium-stuff.git
+| Offense | Action / Duration |
+| :--- | :--- |
+| **Slurs** (Depending on severity/context) | **1 to 3 Days Ban** |
+| **Ban Evasion** | **1 Week Ban** |
+| **Alting (For farming Robux/Exploiting)** | **Permanent Ban** |
+
+---
+*(Note: For security reasons, links to the internal Admin Panel are not included in this public documentation. Staff should access it via the approved internal bookmarks.)*
