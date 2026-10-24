@@ -1,10 +1,10 @@
-# 🛡️ The Ultimate Hexium Community Guide
+# The Ultimate Hexium Community Guide
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Role](https://img.shields.io/badge/Role-Senior%20Moderator%20%26%20QA-blue)
 ![Platform](https://img.shields.io/badge/Platform-Hexium-purple)
 
-### 👋 About Me
+### About Me
 Hello, I am **Money** (also known as **Qrdz**). I am a Senior Moderator on Hexium, here to help and support the community. 
 
 If you have any questions, ping me in the chat or DM me **@qrdz** on Discord. I am pretty much active every day of the week. I am 5 to 6 hours behind the EST time zone because I am in the EU time zone, which is a bummer, but it's fine—I'm used to it. 
@@ -17,24 +17,24 @@ Welcome to the ultimate information hub for **Hexium** (11,900+ users). Whether 
 
 ---
 
-## 🕰️ History & Origins
+## History & Origins
 
 Hexium was created on **July 13, 2026** by **EMP (Emperor)** to carry on the legacy of the legendary **Roskid** revival, which was originally owned by **tae**.
 
 I joined just **12 days after the very first account was created**, making me a **Senior Moderator** and one of the earliest staff members of the platform. I've watched this community grow from its absolute beginning to what it is today.
 
-### 🚀 Current Growth
+### Current Growth *(As of 24/10/2026 17:38)*
 - **Website Users:** 11,900+
 - **Discord Members:** 8,000+
 
-### 🎯 The Vision
+### The Vision
 Hexium is still growing, and I want to see it become the best revival platform out there. My hope for the future is that we focus on bringing back **classic simulators and older games**, rather than just being another hangout spot or filled with AI slop (even if some of it is admittedly good). We're building a real community here.
 
 > *"I have been since the start, but I will stay until the end."*
 
 ---
 
-## 🔗 Important Links
+## Important Links
 
 - **Main Website / Sign Up:** [hexium.zip](https://hexium.zip/)
 - **Discord Server:** [discord.gg/hexium](https://discord.gg/hexium)
@@ -45,22 +45,22 @@ Hexium is still growing, and I want to see it become the best revival platform o
 - **Heximons:** [heximons.lol](https://heximons.lol/)
 - **Legacy/Other Site** *(Currently unstable)*: [le.baljeet.club](https://le.baljeet.club/)
 
-### 💰 Donations & Support
+### Donations & Support
 - **Ko-fi:** [ko-fi.com/hexium](https://ko-fi.com/hexium)
 - **Direct Donation** *(PayPal & Crypto)*: [hexium.zip/donation](https://hexium.zip/donation)
 
 ---
 
-## 💵 Economy: How to Earn Tix & Robux
+## Economy: How to Earn Tix & Robux
 
 Getting Tix and Robux in Hexium isn't actually that hard once you understand the loop. Here is the meta:
 
 1. **Get Builders Club (OBC):** This is your first step. It unlocks the ability to get item drops and participate in the economy.
 2. **Wait for Item Drops:** What are item drops? **EMP (the Owner)** will drop a new limited item and put it up for a community vote in the Discord. 
-   - **⏰ Drop Times:** Drops usually happen between **4:00 PM and 5:30/6:00 PM EST** *(which is around 10:00 PM to 12:00 AM CET for the European community)*.
+   - **Drop Times:** Drops usually happen between **4:00 PM and 5:30/6:00 PM EST** *(which is around 10:00 PM to 12:00 AM CET for the European community)*.
 3. **The Resell Loop:** The community votes on the item, EMP reveals the results, and then puts the limited up for sale. Buy the limited when it drops. Once it's sold out, you can resell it to other players for a higher price to get more Robux. Keep this loop going to build your wealth.
 
-### 🛠️ Other Ways to Get Rich
+### Other Ways to Get Rich
 - **Make a Game:** Developing games on the platform is a massive way to earn Tix/Robux.
 - **Reselling Clothes:** Design or flip clothing items for a profit.
 - **Donate:** You can also donate to get Robux, which directly supports Hexium and helps keep the servers up and running.
@@ -69,7 +69,7 @@ Getting Tix and Robux in Hexium isn't actually that hard once you understand the
 
 ---
 
-## 📜 Community & In-Game Rules
+## Community & In-Game Rules
 
 By joining the Hexium Discord server or playing on the platform, you agree to follow these rules. **These rules apply to both the Discord server and in-game.**
 
@@ -96,7 +96,7 @@ By joining the Hexium Discord server or playing on the platform, you agree to fo
 
 ---
 
-## 🛡️ Moderation Action Times (Discord)
+## Moderation Action Times (Discord)
 
 Consistency is key. Use the following timeouts for Discord chat infractions:
 
@@ -107,7 +107,7 @@ Consistency is key. Use the following timeouts for Discord chat infractions:
 | **Low-tier Offenses** (Arguments, inappropriate behavior, hostile behavior) | **10 Minutes Timeout** |
 | **Promotion / Mentioning other sites** | **10 Minutes Timeout** |
 
-## 🎮 Moderation Action Times (In-Game Bans)
+## Moderation Action Times (In-Game Bans)
 
 For in-game violations, apply the following ban durations:
 
@@ -119,10 +119,10 @@ For in-game violations, apply the following ban durations:
 
 ---
 
-> **🔒 SECURITY NOTE:** Links to the internal Admin Panel are intentionally excluded from this public documentation. Staff should access it via the approved internal bookmarks.
+> **SECURITY NOTE:** Links to the internal Admin Panel are intentionally excluded from this public documentation. Staff should access it via the approved internal bookmarks.
 
 ---
-## 📜 License
+## License
 
 This project is licensed under the MIT License.
 
