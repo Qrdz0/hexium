@@ -4,6 +4,15 @@
 ![Role](https://img.shields.io/badge/Role-Senior%20Moderator%20%26%20QA-blue)
 ![Platform](https://img.shields.io/badge/Platform-Hexium-purple)
 
+### 👋 About Me
+Hello, I am **Money** (also known as **Qrdz**). I am a Senior Moderator on Hexium, here to help and support the community. 
+
+If you have any questions, ping me in the chat or DM me **@qrdz** on Discord. I am pretty much active every day of the week. I am 5 to 6 hours behind the EST time zone because I am in the EU time zone, which is a bummer, but it's fine—I'm used to it. 
+
+I made this guide to inform anyone reading this. Thanks for reading, and please share this with others!
+
+---
+
 Welcome to the ultimate information hub for **Hexium** (11,900+ users). Whether you are a new player looking to get rich, or a staff member checking the rules, this guide contains everything you need to know about the platform.
 
 ---
@@ -20,6 +29,8 @@ I joined just **12 days after the very first account was created**, making me a 
 
 ### 🎯 The Vision
 Hexium is still growing, and I want to see it become the best revival platform out there. My hope for the future is that we focus on bringing back **classic simulators and older games**, rather than just being another hangout spot or filled with AI slop (even if some of it is admittedly good). We're building a real community here.
+
+> *"I have been since the start, but I will stay until the end."*
 
 ---
 
@@ -89,4 +100,4 @@ For in-game violations, apply the following ban durations:
 This project is licensed under the MIT License.
 
 ---
-*Maintained by [Qrdz0](https://github.com/Qrdz0) - Senior Moderator & QA Tester at Hexium since day one*
+*Maintained by [Qrdz0](https://github.com/Qrdz0) - Senior Moderator & QA Tester at Hexium since Day 12.*
