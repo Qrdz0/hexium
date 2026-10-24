@@ -69,6 +69,33 @@ Getting Tix and Robux in Hexium isn't actually that hard once you understand the
 
 ---
 
+## 📜 Community & In-Game Rules
+
+By joining the Hexium Discord server or playing on the platform, you agree to follow these rules. **These rules apply to both the Discord server and in-game.**
+
+- **Platform Compliance:** Harassment, discriminatory behavior, hate speech, personal attacks, and deliberately hostile behavior are not permitted. Disagreements are fine, but attempts to provoke unnecessary conflict or arguments are not.
+- **Keep Chat Manageable:** Do not flood channels with excessive messages, repeated content, mass mentions, or other forms of spam that interfere with normal conversation.
+- **Keep Explicit Material Out:** Sexually explicit, excessively graphic, disturbing, or otherwise inappropriate content is prohibited throughout the community.
+- **No Unauthorized Promotion:** Do not advertise, promote, recruit for, or distribute unsolicited promotional material unless a channel or event specifically permits it.
+- **Avoid Hostile or Disruptive Behavior:** Constant antagonizing, provoking, insulting, baiting, or otherwise creating an unpleasant environment for other members may result in moderation action.
+- **Follow Discord's Policies:** All members are required to comply with Discord's current Terms of Service and Community Guidelines while participating in this community.
+- **Cooperate With Staff:** Follow reasonable instructions given by staff and do not deliberately obstruct moderation efforts. If you disagree with a decision, use the appropriate appeal process.
+- **Keep Audio at Reasonable Levels:** Do not play excessively loud audio, sound effects, videos, or other material intended to disrupt voice channels.
+- **Avoid Flashing or Seizure-Inducing Media:** Content containing rapid or excessive flashing, intense color changes, or other potentially seizure-inducing visual effects is prohibited.
+- **No Illegal or Dangerous Material:** Do not distribute, request, promote, or facilitate illegal activity or harmful material through the community.
+- **Protect Personal Information:** Never publish, distribute, threaten to expose, or request another member's private information (doxxing). This includes addresses, phone numbers, and account credentials.
+- **No Item Sniping:** Attempting to monitor, intercept, or exploit another user's transactions or item activity for the purpose of obtaining their items before another party can do so is prohibited.
+- **Do Not Joke About Account Compromise:** Do not falsely claim that your account has been hacked, stolen, or compromised as a joke or means of creating confusion.
+- **Keep Shared Media Respectful:** Images, videos, memes, and other content must not be used to humiliate, degrade, or dehumanize other people.
+- **No Body-Based Insults:** Do not target another member's physical characteristics with insults or degrading remarks.
+- **Do Not Forge or Manipulate Messages:** Creating fabricated screenshots, edited messages, fake conversations, or other misleading representations is prohibited.
+- **No Transfers Intended to Circumvent a Ban:** Users facing disciplinary action may not move, trade, or distribute items to others to protect them from a ban. Transfers designed to circumvent enforcement may result in action against both parties.
+- **No Economy Manipulation or Unauthorized Farming:** Duplication of limited items, unauthorized farming of Robux or TIX, or other methods of artificially generating assets are prohibited.
+- **Software Used With the Community Must Be Open Source:** Userscripts, browser extensions, and similar software used in connection with the community must be freely available and open source.
+- **No Zalgo or Deliberately Corrupted Text:** Excessive use of Zalgo text, heavily corrupted Unicode, or similar character spam is prohibited.
+
+---
+
 ## 🛡️ Moderation Action Times (Discord)
 
 Consistency is key. Use the following timeouts for Discord chat infractions:
