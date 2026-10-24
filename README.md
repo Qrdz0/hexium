@@ -89,4 +89,4 @@ For in-game violations, apply the following ban durations:
 This project is licensed under the MIT License.
 
 ---
-*Maintained by [Qrdz0](https://github.com/Qrdz0) - Senior Moderator & QA Tester at Hexium since Day 12.*
+*Maintained by [Qrdz0](https://github.com/Qrdz0) - Senior Moderator & QA Tester at Hexium since day one*
