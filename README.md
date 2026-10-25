@@ -69,6 +69,26 @@ Getting Tix and Robux in Hexium isn't actually that hard once you understand the
 
 ---
 
+## General Support & Guides
+
+### How to Upload Clothing
+Creating and selling clothing is one of the best ways to make Robux on Hexium.
+1. Go to the **Create** tab on the Hexium website.
+2. Select **Upload Clothing** (choose Shirt or Pants).
+3. Upload your template file (make sure it's a standard Roblox template).
+4. Set your price and give it a name.
+5. Click Upload. Your item will be reviewed by staff before appearing in the catalog. **Make sure it follows the Community Rules (no NSFW, no hate symbols).**
+
+### How to Make & Upload Games
+Hexium supports custom games built in Roblox Studio.
+1. Open **Roblox Studio** and build your game.
+2. Once your game is finished, save it as a `.rbxl` or `.rbxlx` file.
+3. Go to the **Create** tab on the Hexium website and select **Upload Game**.
+4. Upload your file, give it a title, description, and thumbnail.
+5. Your game will be reviewed and published to the platform. 
+
+---
+
 ## Community & In-Game Rules
 
 By joining the Hexium Discord server or playing on the platform, you agree to follow these rules. **These rules apply to both the Discord server and in-game.**
@@ -89,7 +109,7 @@ By joining the Hexium Discord server or playing on the platform, you agree to fo
 - **Keep Shared Media Respectful:** Images, videos, memes, and other content must not be used to humiliate, degrade, or dehumanize other people.
 - **No Body-Based Insults:** Do not target another member's physical characteristics with insults or degrading remarks.
 - **Do Not Forge or Manipulate Messages:** Creating fabricated screenshots, edited messages, fake conversations, or other misleading representations is prohibited.
-- **No Transfers Intended to Circumvent a Ban:** Users facing disciplinary action may not move, trade, or distribute items to others to protect them from a ban. Transfers designed to circumvent enforcement may result in action against both parties.
+- **No Transfers Intended to Circumvent a Ban:** Users facing disciplinary action may not move, trade, or distribute items to others to protect them from a ban.
 - **No Economy Manipulation or Unauthorized Farming:** Duplication of limited items, unauthorized farming of Robux or TIX, or other methods of artificially generating assets are prohibited.
 - **Software Used With the Community Must Be Open Source:** Userscripts, browser extensions, and similar software used in connection with the community must be freely available and open source.
 - **No Zalgo or Deliberately Corrupted Text:** Excessive use of Zalgo text, heavily corrupted Unicode, or similar character spam is prohibited.
@@ -127,4 +147,4 @@ For in-game violations, apply the following ban durations:
 This project is licensed under the MIT License.
 
 ---
-*Maintained by [Qrdz0](https://github.com/Qrdz0) - Senior Moderator & QA Tester at Hexium since Day one*
+*Maintained by [Qrdz0](https://github.com/Qrdz0) - Senior Moderator & QA Tester at Hexium since Day 12.*
