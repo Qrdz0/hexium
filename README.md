@@ -89,6 +89,31 @@ Hexium supports custom games built in Roblox Studio.
 
 ---
 
+## Verification Program
+
+**Want to be verified on Hexium?**
+Here are the requirements you need to meet. The verified badge is automatic, so please do not open a ticket if you do meet these requirements as we have verification waves that roll out every week. The only one that isn't automatic is Star Creator, as you will have to open a ticket to claim verification for it.
+
+### Star Creators :StarCreator:
+To qualify for the Star Creators Program you must have posted at least **3 videos** featuring or promoting Hexium that have at least **1,500+ Views**.
+- Every qualifying video must clearly display **.gg/hexium** on screen throughout the video.
+- Creators are expected to post content consistently and remain active (at least 2 posts per week).
+
+### Game Developers :Studio:
+To qualify for verification as a Game Developer, your experience must have more than **500 playtime hours in the last 30 days**.
+
+### Clothing Creators :robux:
+To qualify for verification as a Clothing Creator, you must have at least **300 items sold** with **2,000 Robux in revenue** in the last 30 days.
+
+> **:Warn: Disclaimer :Warn:**
+> By being a part of the Verified program on Hexium, you acknowledge that you represent the Hexium community and are expected to act accordingly. You are expected to treat everyone with respect, and follow all Hexium rules and guidelines.
+> 
+> Failure to comply with these expectations may result in your Verified User badge being revoked at any time. Verification is a privilege and may be removed if your behavior no longer reflects the standards expected of a representative of the Hexium community.
+> 
+> **Note:** Meeting the minimum requirements does not automatically guarantee acceptance.
+
+---
+
 ## Community & In-Game Rules
 
 By joining the Hexium Discord server or playing on the platform, you agree to follow these rules. **These rules apply to both the Discord server and in-game.**
